@@ -1,5 +1,10 @@
 # Predicting the Demand for Real Estate Listings in Austria
 
+- [Abstract](#abstract)
+- [Development of median prices over time among Austrian states](#development-of-median-prices-over-time-among-austrian-states)
+- [Comparison of the final models](#comparison-of-the-final-models)
+- [Non-disclosure agreement](#non-disclosure-agreement)
+
 ## Abstract
 
 Predicting the behaviour of the housing market has always been a challenging task of great significance since real estate affects the whole economy and individuals to a profound extent. This thesis explores the different aspects that impact the demand for real estate properties, focusing on Austrian real estate listings advertised online. The properties are mainly described by physical characteristics such as the price, area or the number of rooms. These are the primary variables used in this research to predict the real estate demand measured as the number of users expressing interest in the given property through the platform. The secondary part of the research explores the macroeconomic factors that influence the housing market based on the available literature.
