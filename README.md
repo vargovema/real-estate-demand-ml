@@ -1,4 +1,4 @@
-# Predicting the Demand for Real Estate Listings in Austria
+# Predicting the Demand for Real Estate Listings in Austria (Bachelor Thesis)
 
 - [Abstract](#abstract)
 - [Development of median prices over time among Austrian states](#development-of-median-prices-over-time-among-austrian-states)
