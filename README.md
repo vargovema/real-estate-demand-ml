@@ -1,4 +1,4 @@
-# real-estate-demand-ml
+# Predicting the Demand for Real Estate Listings in Austria
 
 ## Abstract
 
@@ -8,6 +8,18 @@ The results suggest that random forests with Austrian states as the location spe
 
 Keywords — housing demand, real estate, Austria, machine learning
 
+## Development of median prices over time among Austrian states
+
+Rent segment (3-month moving average) | Purchase segment (3-month moving average)
+--- | ---
+![](figs/price_dev_bun_rent.png) | ![](figs/price_dev_bun_buy.png)
+
+## Comparison of the final models
+
+Rent segment | Purchase segment
+--- | ---
+![](figs/modelstraincomp_rent.png) | ![](figs/modelstraincomp_buy.png)
+
 ## Non-disclosure agreement
 
-Since this bachelor thesis was written under non-disclosure agreement, the code and results of the reaserch cannot be shared publicly. However, I am happy to share the methodology and the models used in the model is requested. Moreover, I could possibly share code snippets as well.
+Since this bachelor thesis was written under non-disclosure agreement, the code, results, and further details of the research cannot be shared publicly. However, I am happy to share the methodology and the models used in the thesis if requested. Moreover, I could possibly share code snippets as well.
